@@ -25,7 +25,7 @@ This module adds more detailed information to the admin order grid. Initially, a
 ## Installation
 
 ```
-composer require markshust/magento2-module-ordergrid
+composer require dlandmann/magento2-module-ordergrid
 bin/magento module:enable MarkShust_OrderGrid
 bin/magento setup:upgrade
 ```
