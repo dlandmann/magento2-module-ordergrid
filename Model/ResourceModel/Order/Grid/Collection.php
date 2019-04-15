@@ -1,5 +1,5 @@
 <?php
-namespace MarkShust\OrderGrid\Model\ResourceModel\Order\Grid;
+namespace Dlandmann\OrderGrid\Model\ResourceModel\Order\Grid;
 
 use Magento\Framework\View\Element\UiComponent\DataProvider\SearchResult;
 
