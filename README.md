@@ -1,12 +1,8 @@
-<h1 align="center">MarkShust_OrderGrid</h1> 
+<h1 align="center">Dlandmann_OrderGrid</h1> 
 
 <div align="center">
   <p>Adds more details to the order grid in the admin.</p>
   <img src="https://img.shields.io/badge/magento-2.2%20|%202.3-brightgreen.svg?logo=magento&longCache=true&style=flat-square" alt="Supported Magento Versions" />
-  <a href="https://packagist.org/packages/markshust/magento2-module-ordergrid" target="_blank"><img src="https://img.shields.io/packagist/v/markshust/magento2-module-ordergrid.svg?style=flat-square" alt="Latest Stable Version" /></a>
-  <a href="https://packagist.org/packages/markshust/magento2-module-ordergrid" target="_blank"><img src="https://poser.pugx.org/markshust/magento2-module-ordergrid/downloads" alt="Composer Downloads" /></a>
-  <a href="https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity" target="_blank"><img src="https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg?style=flat-square" alt="Maintained - Yes" /></a>
-  <a href="https://opensource.org/licenses/MIT" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg" /></a>
 </div>
 
 ## Table of contents
@@ -26,7 +22,7 @@ This module adds more detailed information to the admin order grid. Initially, a
 
 ```
 composer require dlandmann/magento2-module-ordergrid
-bin/magento module:enable MarkShust_OrderGrid
+bin/magento module:enable Dlandmann_OrderGrid
 bin/magento setup:upgrade
 ```
 
